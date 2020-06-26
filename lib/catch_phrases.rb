@@ -12,3 +12,4 @@ mario
 def toadstool
   status
 end
+toadstool
