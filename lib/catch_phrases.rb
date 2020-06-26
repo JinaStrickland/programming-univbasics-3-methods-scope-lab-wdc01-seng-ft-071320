@@ -22,6 +22,7 @@ end
 
 
 def all_phrases
-  mariotoadstool
+  mario
+  toadstool
   link
 end
