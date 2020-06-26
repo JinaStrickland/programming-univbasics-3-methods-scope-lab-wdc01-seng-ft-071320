@@ -10,5 +10,5 @@ mario
 
 
 def toadstool
-  puts status
+  status
 end
